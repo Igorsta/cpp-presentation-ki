@@ -1,0 +1,69 @@
+.reveal-viewport,
+.reveal,
+.reveal .slides {
+  background: #ffffff;
+  color: #111827;
+}
+
+.reveal {
+  font-family: Inter, Arial, sans-serif;
+  font-size: 32px;
+}
+
+.reveal .slides section {
+  color: #111827;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  color: #111827;
+  font-family: Inter, Arial, sans-serif;
+  font-weight: 800;
+  text-transform: none;
+}
+
+.reveal h1 { font-size: 1.9em; }
+.reveal h2 { font-size: 1.45em; }
+
+.reveal p,
+.reveal li {
+  color: #1f2937;
+  line-height: 1.35;
+}
+
+.reveal ul,
+.reveal ol {
+  display: inline-block;
+  text-align: left;
+}
+
+.reveal strong { color: #111827; }
+
+.reveal code {
+  color: #9d174d;
+  background: #fdf2f8;
+  border-radius: 0.2em;
+  padding: 0.08em 0.2em;
+}
+
+
+.reveal pre code {
+  color: #e5e7eb;
+  background: #4f535c;
+  border-radius: 0.3em;
+  padding: 1em;
+}
+
+.reveal a { color: #2563eb; }
+
+.reveal img {
+  max-height: 62vh;
+  object-fit: contain;
+}
+
+.reveal .progress { color: #2563eb; }
+.reveal .controls { color: #2563eb; }
