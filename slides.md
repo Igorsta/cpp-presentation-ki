@@ -29,25 +29,25 @@ Po co mam się uczyć C++?
 
 # Żeby wbić OI-a i OIJ-a (!!!)
 
-<img src="https://www.oi.edu.pl/media/attachment/20200421/logo-oi-kolorowe_1.png" width="20%">
+<img src="images/logo-oi-kolorowe_1.png" width="20%">
 
-<img src="https://www.sp211.edu.pl/wp-content/uploads/2022/06/oij-01.jpg" width="50%">
+<img src="images/oij-01.jpg" width="50%">
 
-<img src="https://blog.jetbrains.com/wp-content/uploads/2017/05/icpc_logo.png" width="25%">
+<img src="images/icpc_logo.png" width="25%">
 
 ----
 
 # Żeby się popisywać !!!
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcG5v_nJlyljHNtyNwSw6rH7adRooojhw5u0h5dAp7lA&s" width="60%">
+<img src="images/images.jpeg" width="60%">
 
 ----
 
-<img src="https://raw.githubusercontent.com/Igorsta/cpp-presentation-ki/refs/heads/main/8atdgq1s00m81.png" width="100%">
+<img src="images/8atdgq1s00m81.png" width="100%">
 
 ----
 
-<img src="https://i.programmerhumor.io/2022/12/programmerhumor-io-backend-memes-programming-memes-cfdcb1373f1beba.jpg" width="40%">
+<img src="images/programmerhumor-io-backend-memes-programming-memes-cfdcb1373f1beba.jpg" width="40%">
 
 ----
 
@@ -134,7 +134,7 @@ Zanim był C, był C++
 
 # Poznajcie swoich przodków
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Ken_Thompson_and_Dennis_Ritchie--1973.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" width="40%">
+<img src="images/Ken_Thompson_and_Dennis_Ritchie--1973.jpg" width="40%">
 
 Note:
 Ken Thompson - Twórca Języka B, Go, współtwórca Unixa
@@ -355,14 +355,13 @@ clang++ kod.cpp -E
 
 ----
 
-<img src="
-https://raw.githubusercontent.com/Igorsta/cpp-presentation-ki/refs/heads/main/unnamed.jpg" width="40%">
+<img src="images/unnamed.jpg" width="40%">
 
 ---
 
 # Wskaźniki 
 
-<img src="https://raw.githubusercontent.com/Igorsta/cpp-presentation-ki/refs/heads/main/itsallpointers-v0-yxuhuqgz7kcd1.jpeg.jpg" width="70%">
+<img src="images/itsallpointers-v0-yxuhuqgz7kcd1.jpeg.jpg" width="70%">
 
 ---
 
@@ -407,7 +406,7 @@ int main(void) {
 
 # Operacje na wskaźnikach
 
-<img src= "https://raw.githubusercontent.com/Igorsta/cpp-presentation-ki/refs/heads/main/mg4z616373c71.jpg" width="50%">
+<img src="images/mg4z616373c71.jpg" width="50%">
 
 ----
 
@@ -666,7 +665,7 @@ int main(void)
 - `void*` - surowy wskaźnik bez typu 
 - `NULL` - pamięć która nie powinna być nigdy dostępna
 
-<img src="https://raw.githubusercontent.com/Igorsta/cpp-presentation-ki/refs/heads/main/86rcqld6lxn81.jpg.webp" width="40%">
+<img src="images/86rcqld6lxn81.jpg.webp" width="40%">
 
 
 ----
@@ -705,7 +704,7 @@ int main(void) {
 
 # Kontrowersje
 
-<img src="https://raw.githubusercontent.com/Igorsta/cpp-presentation-ki/refs/heads/main/pointerarithmeticbelike-v0-l0la2ll8e4jc1.png.jpg" width="40%">
+<img src="images/pointerarithmeticbelike-v0-l0la2ll8e4jc1.png.jpg" width="40%">
 
 ---
 
@@ -722,13 +721,13 @@ printf("%d", **ptr_ptr); // ?
 
 ----
 
-<img src="https://raw.githubusercontent.com/Igorsta/cpp-presentation-ki/refs/heads/main/pointer-to-a-pointer.jpg" width="40%">
+<img src="images/pointer-to-a-pointer.jpg" width="40%">
 
 ----
 
 # KISS (Keep It Simple & Stupid)
 
-<img src="https://raw.githubusercontent.com/Igorsta/cpp-presentation-ki/refs/heads/main/c-isnt-that-hard-v0-6qelj9mxqzjx.jpg.jpg" width="70%">
+<img src="images/c-isnt-that-hard-v0-6qelj9mxqzjx.jpg.jpg" width="70%">
 
 ---
 

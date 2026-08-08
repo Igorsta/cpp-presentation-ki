@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "reveal-md slides.md --watch"
+  },
   "dependencies": {
     "reveal-md": "^6.1.2"
   }
